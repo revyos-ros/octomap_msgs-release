@@ -1,3 +1,26 @@
+## octomap_msgs (jazzy) - 2.0.0-6
+
+The packages in the `octomap_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy octomap_msgs --override-release-repository-push-url git@github.com:revyos-ros/octomap_msgs-release.git` on `Wed, 12 Jun 2024 00:31:04 -0000`
+
+The `octomap_msgs` package was released.
+
+Version of package(s) in repository `octomap_msgs`:
+
+- upstream repository: https://github.com/OctoMap/octomap_msgs.git
+- release repository: https://github.com/revyos-ros/octomap_msgs-release.git
+- rosdistro version: `2.0.0-5`
+- old version: `2.0.0-5`
+- new version: `2.0.0-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## octomap_msgs (rolling) - 2.0.0-1
 
 The packages in the `octomap_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling octomap_msgs` on `Sun, 18 Apr 2021 13:59:47 -0000`
